@@ -1,0 +1,11 @@
+# Arduino build artifacts
+build/
+bin/
+
+# Local configuration/Sensitive data
+*.local
+secrets.h
+
+# Desktop system files
+.DS_Store
+Thumbs.db
