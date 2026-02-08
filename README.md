@@ -5,6 +5,8 @@ Secure • Protect • Respond
 
 An IoT-based safety ecosystem featuring an ESP32-driven alcohol interlock, buckle detection, and real-time G-force telemetry. It automatically broadcasts GPS coordinates to emergency contacts upon detecting critical impacts to ensure rapid accident response.
 
+https://itsmeniranjankr.github.io/Smart-Helmet-System/  .
+
 # 🛠 Features
 Alcohol Interlock (Logic Alpha): Prevents engine ignition via a relay if the MQ-3 sensor detects breath alcohol levels above the safety threshold.
 
