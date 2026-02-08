@@ -1,5 +1,4 @@
 # Smart-Helmet-System
-https://itsmeniranjankr.github.io/Smart-Helmet-System/  .
 An IoT-based safety ecosystem featuring an ESP32-driven alcohol interlock, buckle detection, and real-time G-force telemetry. It automatically broadcasts GPS coordinates to emergency contacts upon detecting critical impacts to ensure rapid accident response.
 Secure • Protect • Respond
 
@@ -14,7 +13,7 @@ Buckle Detection: Ensures the helmet is securely fastened before the engine can 
 
 Impact Telemetry (Logic Beta): Monitors real-time gravitational forces using an MPU6050 IMU; triggers SOS if force exceeds 8G.
 
-SOS Broadcast: Wraps precise GPS coordinates into an SMS packet via SIM800L and sends it to +918848825350.
+SOS Broadcast: Wraps precise GPS coordinates into an SMS packet via SIM800L and sends it to +91xxxxxxxxxx.
 
 Asynchronous State Machine: Non-blocking firmware architecture ensures high-frequency sensor polling even during GSM/GPS data transmission.
 
