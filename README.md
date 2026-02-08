@@ -15,7 +15,7 @@ SOS Broadcast: Wraps precise GPS coordinates into an SMS packet via SIM800L and 
 
 Asynchronous State Machine: Non-blocking firmware architecture ensures high-frequency sensor polling even during GSM/GPS data transmission.
 
-#📂 System Architecture
+# 📂 System Architecture
 The system integrates the following hardware components:
 
 Microcontroller: ESP32 (Master Hub)
